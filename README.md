@@ -1,4 +1,7 @@
-# Falling Objects Game 🎮
+## How To Play
+Download the '.sb3' file from this repository and open it in scratch :)
+
+# Falling Objects Game(ClickOrDie) 🎮
 
 My first Scratch project, created as part of **CS50's Introduction to Computer Science**.
 
